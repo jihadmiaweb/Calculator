@@ -1,0 +1,74 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+   background-color:blue;
+}
+.calcatilor{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  border-radius:10px ;
+  /* border: 1px solid coral; */
+  background-color: black;
+  box-shadow: 0px 3px 20px rgb(235, 220, 255);
+  padding: 10px;
+  border: none;
+ 
+}
+input{
+    padding: 20px 80px; 
+    margin: 10px 0;
+    background: transparent; 
+    border: none;
+    text-align: right;
+    color: darksalmon;
+    font-size: 30;
+}
+input::placeholder{
+    color: crimson;
+    font-size: 20px;
+}
+
+button{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 10px;
+    color: #fff;
+    font-size: 20px;
+    background-color: black;
+    box-shadow: 0px 3px 15px cornsilk;
+    border: none;
+    cursor: pointer;
+
+}
+.simion{
+   background-color: orangered;
+   
+}
+
+.ginue{
+    color: lime;
+    font-size: 30px;
+ 
+}
+.minice{
+     color: lime;
+    font-size: 30px;
+ 
+
+}
+
+.plice{
+   color: lime;
+}
+.divite{
+    color: lawngreen;
+}
+
