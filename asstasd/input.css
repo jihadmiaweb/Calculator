@@ -1,41 +1,51 @@
-
-*{
+* {
     margin: 0;
     padding: 0;
 }
-body{
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   
-   background-color:blue;
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+    align-items: center;
+    justify-content: center;
+    color: #222;
+    background: radial-gradient(circle at 30% 30%, #ffd194 0%, #f6d365 30%, #fda085 100%);
+    border-radius: 12px;
+    ;
 }
-.calcatilor{
-  margin-top: 10%;
-  margin-bottom: 10%;
-  border-radius:10px ;
-  /* border: 1px solid coral; */
-  background-color: black;
-  box-shadow: 0px 3px 20px rgb(235, 220, 255);
-  padding: 10px;
-  border: none;
- 
+
+.calcatilor {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-radius: 10px;
+    /* border: 1px solid coral; */
+    background-color: black;
+    box-shadow: 0px 3px 20px rgb(235, 220, 255);
+    padding: 10px;
+    border: none;
+
 }
-input{
-    padding: 20px 80px; 
+
+input {
+    padding: 20px 80px;
     margin: 10px 0;
-    background: transparent; 
+    background: transparent;
     border: none;
     text-align: right;
     color: darksalmon;
     font-size: 30;
 }
-input::placeholder{
+
+input::placeholder {
     color: crimson;
     font-size: 20px;
 }
 
-button{
+button {
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -48,27 +58,29 @@ button{
     cursor: pointer;
 
 }
-.simion{
-   background-color: orangered;
-   
+
+.simion {
+    background-color: orangered;
+
 }
 
-.ginue{
+.ginue {
     color: lime;
     font-size: 30px;
- 
+
 }
-.minice{
-     color: lime;
+
+.minice {
+    color: lime;
     font-size: 30px;
- 
+
 
 }
 
-.plice{
-   color: lime;
+.plice {
+    color: lime;
 }
-.divite{
+
+.divite {
     color: lawngreen;
 }
-
