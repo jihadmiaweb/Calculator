@@ -7,13 +7,15 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-
+    height: 550px;
 
 
     align-items: center;
     justify-content: center;
     color: #222;
-    background: radial-gradient(circle at 30% 30%, #ffd194 20%, #f6d365 30%, #fda085 100%);
+    background: radial-gradient(circle at top left, #ffe6e6 10%, #ffc1a1 40%, #ff9a9e 100%);
+
+
 }
 
 .calcatilor {
