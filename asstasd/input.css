@@ -14,8 +14,6 @@ body {
     justify-content: center;
     color: #222;
     background: radial-gradient(circle at 30% 30%, #ffd194 20%, #f6d365 30%, #fda085 100%);
-    border-radius: 12px;
-    ;
 }
 
 .calcatilor {
